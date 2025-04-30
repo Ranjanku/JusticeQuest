@@ -32,4 +32,5 @@ An interactive Android application built using Kotlin that aims to educate child
 
 ## 📸 Screenshots
 
-> Add your screenshots here using:
+![WhatsApp Image 2025-04-30 at 11 17 03 AM](https://github.com/user-attachments/assets/224f7e2f-6c60-4044-8bf5-d8920dc61f39)
+
